@@ -1,0 +1,14 @@
+{
+  "name": "n8n-render",
+  "version": "1.0.0",
+  "private": true,
+  "engines": {
+    "node": ">=18 <22"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "n8n": "^1.91.0"
+  }
+}
